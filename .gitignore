@@ -1,0 +1,9 @@
+*.png
+*.pdf
+*.Rproj
+.RData
+.Rhistory
+results/
+attackISP/
+.Rproj.user/
+graphs/
